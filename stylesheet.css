@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: blueviolet;
+}
+img{
+    width: 500px;
+    height: 600px;
+    
+    box-sizing: border-box;
+    border: 20px solid darkslateblue ;
+margin: 20px;
+padding: 20px;
+      }
+      .picture{
+        text-align: center;
+
+      }
+
+      #poppy{
+        text-align: center;
+        color: rgb(188, 188, 243);
+        font-size: 105px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+      .parag-one ,.parag-two
+      {
+        font-size: 25px;
+        color: rgb(188, 188, 243);;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
